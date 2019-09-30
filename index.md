@@ -9,7 +9,7 @@
 
 ---
 [Classify Song Genres from Audio Data]
-<p>Over the past few years, streaming services have looked into means of categorizing music to allow for personalized recommendations. This project utilizes machine learning methods, such as decision trees and logistic regression in Python to classify songs into genres.<p>
+<p>Over the past few years, streaming services have looked into means of categorizing music to allow for personalized recommendations. This project utilizes machine learning methods, such as decision trees and logistic regression in Python to classify songs into genres.</p>
 
 ---
 
