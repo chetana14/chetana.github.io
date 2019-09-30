@@ -11,12 +11,12 @@
 </p>
 
 ---
-[ASL Recognition with Deep Learning](/sample_page)
+[ASL Recognition with Deep Learning](https://github.com/chetana14/ASL-Recognition-with-Deep-Learning)
 <p>American Sign Language (ASL) is the primary language used by many deaf individuals in North America, and it is also used by hard-of-hearing and hearing individuals. The language is as rich as spoken languages and employs signs made with the hand, along with facial gestures and bodily postures. In this project a computer vision systems is developed that translate sign language to spoken language.
 </p>
 
 ---
-[Naïve Bees: Deep Learning with Images](/sample_page)
+[Naïve Bees: Deep Learning with Images](https://github.com/chetana14/Na-ve-Bees-Deep-Learning-with-Images)
 <p>Pollinating bees have critical roles in both ecology and agriculture, and diseases like colony collapse disorder threaten these species. Identifying different species of bees in the wild means that we can better understand the prevalence and growth of these important insects.This project aims at identifying bee species from images is a task that ultimately would allow researchers to more quickly and effectively collect field data.</p>
 
 ---
