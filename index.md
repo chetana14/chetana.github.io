@@ -2,7 +2,7 @@
 
 ---
 
-[Extract Stock Sentiment From News Headlines](/sample_page)
+[Extract Stock Sentiment From News Headlines](https://www.kaggle.com/chetna147/kernel184d384d2f)
 <p>The project aims at generating investing insight by applying sentiment analysis on financial news headlines from FINVIZ.com. Using natural language processing technique, the model is trained to understand the emotion behind the headlines and predict whether the market feels good or bad about a stock. The news headlines for FB and TSLA are scraped and then sentiment analysis is applied to generate investment insight.</p>
 
 ---
