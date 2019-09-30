@@ -5,12 +5,12 @@
 ### Machine Learning Projects
 
 [Extract Stock Sentiment From News Headlines](https://www.kaggle.com/chetna147/kernel184d384d2f)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<p>The project aims at generating investing insight by applying sentiment analysis on financial news headlines from FINVIZ.com. Using natural language processing technique, the model is trained to understand the emotion behind the headlines and predict whether the market feels good or bad about a stock. The news headlines for FB and TSLA are scraped and then sentiment analysis is applied to generate investment insight.</p>
 
 ---
+
 [Classify Song Genres from Audio Data](/pdf/sample_presentation.pdf)
 <p>Over the past few years, streaming services have looked into means of categorizing music to allow for personalized recommendations. This project utilizes machine learning methods, such as decision trees and logistic regression in Python to classify songs into genres.<p>
-
 
 ---
 
