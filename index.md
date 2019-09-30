@@ -1,8 +1,6 @@
-## Portfolio
+## Projects
 
 ---
-
-### Machine Learning Projects 
 
 [Extract Stock Sentiment From News Headlines](/sample_page)
 <p>The project aims at generating investing insight by applying sentiment analysis on financial news headlines from FINVIZ.com. Using natural language processing technique, the model is trained to understand the emotion behind the headlines and predict whether the market feels good or bad about a stock. The news headlines for FB and TSLA are scraped and then sentiment analysis is applied to generate investment insight.</p>
