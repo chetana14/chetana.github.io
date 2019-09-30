@@ -11,16 +11,12 @@
 </p>
 
 ---
-[Classify Song Genres from Audio Data](/sample_page)
+[ASL Recognition with Deep Learning](/sample_page)
 <p>Over the past few years, streaming services have looked into means of categorizing music to allow for personalized recommendations. This project utilizes machine learning methods, such as decision trees and logistic regression in Python to classify songs into genres.
 </p>
 
 ---
-[Classify Song Genres from Audio Data](/sample_page)
-<p>Over the past few years, streaming services have looked into means of categorizing music to allow for personalized recommendations. This project utilizes machine learning methods, such as decision trees and logistic regression in Python to classify songs into genres.
-</p>
 
----
 
 
 
