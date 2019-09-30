@@ -8,8 +8,9 @@
 <p>The project aims at generating investing insight by applying sentiment analysis on financial news headlines from FINVIZ.com. Using natural language processing technique, the model is trained to understand the emotion behind the headlines and predict whether the market feels good or bad about a stock. The news headlines for FB and TSLA are scraped and then sentiment analysis is applied to generate investment insight.</p>
 
 ---
-[Classify Song Genres from Audio Data]
-<p>Over the past few years, streaming services have looked into means of categorizing music to allow for personalized recommendations. This project utilizes machine learning methods, such as decision trees and logistic regression in Python to classify songs into genres.</p>
+[Classify Song Genres from Audio Data](/sample_page)
+<p>Over the past few years, streaming services have looked into means of categorizing music to allow for personalized recommendations. This project utilizes machine learning methods, such as decision trees and logistic regression in Python to classify songs into genres.
+</p>
 
 ---
 
