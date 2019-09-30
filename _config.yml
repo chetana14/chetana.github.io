@@ -2,7 +2,7 @@ title: Chetana Singhal # your name (or website title) here
 logo: "/images/img (2).jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  Self Motivated Data Science Enthusiast
-<br><br>
+  <br><br>
   <a href="www.linkedin.com/in/chetanasinghal">View My LinkedIn Profile</a>   
   
 theme: jekyll-theme-minimal
